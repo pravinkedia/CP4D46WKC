@@ -56,3 +56,7 @@ Example 4: Run the import passing additional arguments to publish the business g
     Port: 32733
     Username: qsk67763
     Password: oPTiLLAldgPPESFP
+
+## Example
+
+    ./import-accelerator-script.sh --hostname https://cpd-cpd-instance.itzroks-0600009hxe-k2flw9-6ccd7f378ae819553d37d5f2ee142bd6-0000.eu-de.containers.appdomain.cloud/ --username admin --password passw0rd --name "Utilities Payment Risk Prediction"

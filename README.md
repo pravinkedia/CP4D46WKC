@@ -5,13 +5,13 @@ Importing the accelerator
 
 To use this accelerator on Cloud Pak for Data v4.6.0.0, complete the following steps:
 
-##Download the utilities-payment-risk-prediction-industry-accelerator.tar.gz file, which is available on the https://github.com/IBM/Industry-Accelerators repository.
+## Download the utilities-payment-risk-prediction-industry-accelerator.tar.gz file, which is available on the https://github.com/IBM/Industry-Accelerators repository.
 
-##Extract the contents of the package.
+## Extract the contents of the package.
 
-###Determine how you want to import the accelerator:
+### Determine how you want to import the accelerator:
 
-####If your Cloud Pak for Data user account has Admin privileges, all components can be installed by following these steps:
+#### If your Cloud Pak for Data user account has Admin privileges, all components can be installed by following these steps:
 
 From a command prompt, run the following command to extract the contents of the package:
 tar -xvf {TARFILENAME} 

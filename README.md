@@ -44,7 +44,8 @@ Example 4: Run the import passing additional arguments to publish the business g
      
 ## CP4D Cluster details
 
-    https://c100-e.eu-de.containers.cloud.ibm.com:32584
+    https://cpd-cpd-instance.itzroks-0600009hxe-k2flw9-6ccd7f378ae819553d37d5f2ee142bd6-0000.eu-de.containers.appdomain.cloud
+    
     user: admin
     password: passw0rd
 

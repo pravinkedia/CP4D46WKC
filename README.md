@@ -49,3 +49,10 @@ Example 4: Run the import passing additional arguments to publish the business g
     user: admin
     password: passw0rd
 
+## DB2 WH credentials
+
+    Database: bludb
+    Hostname or IP address: 54a2f15b-5c0f-46df-8954-7e38e612c2bd.c1ogj3sd0tgtu0lqde00.databases.appdomain.cloud
+    Port: 32733
+    Username: qsk67763
+    Password: oPTiLLAldgPPESFP

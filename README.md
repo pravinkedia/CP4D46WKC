@@ -40,3 +40,11 @@ Example 3: Run the import passing arguments. The following command will import t
 Example 4: Run the import passing additional arguments to publish the business glossary terms and run notebook jobs.
 
      ./import-accelerator-script.sh --hostname https://hostname:port --username username --password password --name "Utilities Payment Risk Prediction" --publish_glossary --run_jobs
+     
+     
+## CP4D Cluster details
+
+    https://c100-e.eu-de.containers.cloud.ibm.com:32584
+    user: admin
+    password: passw0rd
+
